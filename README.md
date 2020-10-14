@@ -14,4 +14,4 @@ I'm a Sr. Administrator for [Snowflake Studio](https://discord.com/invite/2SUybz
 ## My Github Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scythe108&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scythe108&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=scythe108)](https://github.com/anuraghazra/github-readme-stats)
