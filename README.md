@@ -1,6 +1,6 @@
 # Hello There 👋.
 
-I currently know *JavaScript*, *TypeScript (some)* *HTML*, *CSS* and a bit of *reactjs*.
+I currently know *JavaScript*, *TypeScript (some)*, *HTML*, *CSS* and a bit of *reactjs*.
 
 I'm a Sr. Administrator for [Snowflake Studio](https://discord.com/invite/2SUybzb)
 
