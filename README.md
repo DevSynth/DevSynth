@@ -10,4 +10,6 @@ I'm a Sr. Administrator for [Snowflake Studio](https://discord.com/invite/2SUybz
 - 😄 Pronouns are **He / Him**
 - ⚡ Fun fact is **I do a lot of stupid things....**
 
+## My Github Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scythe108&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
