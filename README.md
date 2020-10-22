@@ -3,7 +3,7 @@
 I currently know *JavaScript*, *TypeScript (some)*, *HTML*, *CSS* and a bit of *reactjs*.
 
 #### Current Status
-- 🔭 I’m currently working on **Aspen Discord Bot**
+- 🔭 I’m currently working on **Aspen Discord Bot & Web Dashboard**
 - 🌱 I’m currently learning **VueJS**
 - 📫 Contact me **on Discord at Scythe#5740**
 - 😄 Pronouns are **He / Him**
