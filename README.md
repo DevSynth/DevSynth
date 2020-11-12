@@ -12,3 +12,6 @@ I currently know *JavaScript*, *TypeScript (some)*, *HTML*, *CSS* and a bit of *
 ## My Github Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&theme=synthwave)
 ![Scythe108](https://github-readme-stats.vercel.app/api/top-langs?username=scythe108&show_icons=true&theme=tokyonight&layout=compact)
+
+## Cool Communitys & People
+- [Snowflake Studio](https://discord.gg/2SUybzb)
