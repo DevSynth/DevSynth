@@ -62,5 +62,3 @@
     </tbody>
     </table>
 </div>
-
-<--!    <code><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code> -->
