@@ -15,11 +15,10 @@
     <i>Administrator at <a href="https://discord.gg/2SUybzb" >Snowflake Studio ❄</a></i>
     <br>
   <h4> Current Status </h4>
-    - 🔭 I’m currently working on **Aspen Discord Bot & Web Dashboard**
-    - 🌱 I’m currently learning **VueJS**
-    - 📫 Contact me **on Discord at Scythe#5740**
-    - 😄 Pronouns are **He / Him**
-    - ⚡ Fun fact is **I do a lot of stupid things....**
+    - 🔭 I’m currently working on <strong>Aspen Discord Bot & Web Dashboard</strong><br>
+    - 🌱 I’m currently learning <strong>VueJS</strong><br>
+    - 📫 Contact me <strong>on Discord at Scythe#5740</strong><br>
+    - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
