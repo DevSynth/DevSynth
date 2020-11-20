@@ -14,6 +14,7 @@
     <br>
     <i>Administrator at <a href="https://discord.gg/2SUybzb" >Snowflake Studio ❄</a></i>
     <br>
+    <hr>
   <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>Aspen Discord Bot & Web Dashboard</strong><br>
     - 🌱 I’m currently learning <strong>VueJS</strong><br>
