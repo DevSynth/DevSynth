@@ -28,7 +28,7 @@
     <br>
     <img alt="Scythe's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> -     <a href="https://twitter.com/scythe108">Scythe108</a>
     <hr>
-    <h4> <i> Programming Languages and Tools </i> </h4>
+    <h4> <i> Programming Languages, Tools & GitHub Stats </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg"></code>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg"></code>
