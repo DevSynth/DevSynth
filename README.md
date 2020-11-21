@@ -23,6 +23,7 @@
     <hr>
     <h4> Contact Me </h4>
     <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Scythe#5740 (<strong>recommended</strong>)
+    📫 <i>Email</i> - scythetheedev@outlook.com
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
