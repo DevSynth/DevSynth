@@ -16,8 +16,8 @@
     <br>
     <hr>
     <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>Aspen Discord Bot & Web Dashboard</strong><br>
-    - 🌱 I’m currently learning <strong>VueJS</strong><br>
+    - 🔭 I’m currently working on <strong>NOTHING</strong><br>
+    - 🌱 I’m currently learning <strong>C++</strong><br>
     - 📫 Contact me <strong>on Discord at Scythe#5740</strong><br>
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
