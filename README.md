@@ -39,7 +39,7 @@
     <br>
     <br>
     ![Scythe](https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&theme=tokyonight&hide=["issues"])
-
+    <br>
     ![Scythe](https://github-readme-stats.vercel.app/api/top-langs?username=scythe108&show_icons=true&theme=tokyonight&layout=compact)
     <br>
     <h4> <i> Current Projects </i> </h4>
