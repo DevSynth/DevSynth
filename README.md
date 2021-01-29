@@ -38,9 +38,9 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Scythe108&show_icons=true&hide_border=true&theme=dark&count_private=true">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Scythe108&theme=dark" alt="porny">
+    ![Scythe](https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&theme=tokyonight&hide=["issues"])
+
+    ![Scythe](https://github-readme-stats.vercel.app/api/top-langs?username=scythe108&show_icons=true&theme=tokyonight&layout=compact)
     <br>
     <h4> <i> Current Projects </i> </h4>
     <hr>
