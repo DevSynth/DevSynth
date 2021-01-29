@@ -40,7 +40,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Scythe108&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/api?username=Scythe108&theme=dark" alt="porny">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Scythe108&theme=dark" alt="porny">
     <br>
     <h4> <i> Current Projects </i> </h4>
     <hr>
