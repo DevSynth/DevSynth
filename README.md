@@ -39,6 +39,7 @@
     <br>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&theme=tokyonight&hide=['issues'])" alt="Scythe's Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scythe108&layout=compact" alt="Scythe's Github Stats" />
     <br>
     <h4> <i> Current Projects </i> </h4>
     <hr>
