@@ -38,8 +38,8 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&hide=['issues']&theme=react" alt="Scythe's Github Stats" /> <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scythe108&theme=react" alt="Scythe's Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&layout=compact&theme=react" alt="Scythe's Github Stats" /> <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scythe108&theme=react&layout=compact" alt="Scythe's Github Stats" />
     <br>
     <h4> <i> Current Projects </i> </h4>
     <hr>
