@@ -40,7 +40,6 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&hide=['issues'])" alt="Scythe's Github Stats" /> <br />
     <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?scythe108" frameborder="0"></iframe>
-
     <br>
     <h4> <i> Current Projects </i> </h4>
     <hr>
