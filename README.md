@@ -38,8 +38,9 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&hide=['issues'])" alt="Scythe's Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scythe108&layout=compact" alt="Scythe's Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=scythe108&show_icons=true&hide=['issues'])" alt="Scythe's Github Stats" /> <br />
+    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?scythe108" frameborder="0"></iframe>
+
     <br>
     <h4> <i> Current Projects </i> </h4>
     <hr>
