@@ -1,24 +1,18 @@
 <div align="center">
-    <h2> Hello there 👋, I'm Scythe </h2>
-    <a href="https://discord.gg/59FYGMS">
-    <img alt="Scythe's Discord", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg">
-    </a>
-    <a href="https://open.spotify.com/user/3gfs2qottz1ysha832rlmznmf">
-    <img alt="Scythe's Spotify", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/spotify.svg">
-    </a>
+    <h2> Hello there 👋, I'm Synth </h2>
     <a href="https://twitter.com/scythe108">
         <img alt="Scythe's Twitter", width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png">
     </a>
     <br>
-    Hi, I'm Jake (aka Scythe), a passionate self-taught developer from the United States of America.
+    Hi, I'm Jake (aka Synth), a passionate self-taught developer from the United States of America.
     <br>
     <i>Administrator at <a href="https://discord.gg/2SUybzb" >Snowflake Studio ❄</a></i>
     <br>
     <hr>
     <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>NOTHING</strong><br>
-    - 🌱 I’m currently learning <strong>C++</strong><br>
-    - 📫 Contact me <strong>on Discord at Scythe#5740</strong><br>
+    - 🔭 I’m currently working on <strong>A Discord Bot</strong><br>
+    - 🌱 I’m currently learning <strong>NOTHING</strong><br>
+    - 📫 Contact me <strong>on Discord at Synth#5740</strong><br>
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
     <h4> Contact Me </h4>
@@ -61,11 +55,6 @@
         <td class="tg-0lax">More Coming Soon<br></td>
         <td class="tg-0lax">More Coming Soon</td>
         <td class="tg-0lax">More Coming Soon</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">Aspen</td>
-        <td class="tg-0lax">Soon</td>
-        <td class="tg-0lax">A multi-purpose discord bot!<br></td>
       </tr>
     </tbody>
     </table>
