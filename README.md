@@ -16,7 +16,7 @@
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
     <h4> Contact Me </h4>
-    <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Scythe#8022 (<strong>recommended</strong>)
+    <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Synth#8022 (<strong>recommended</strong>)
     <br>
     📫 <i>Email</i> - me@scythethedev.cf
     <br>
