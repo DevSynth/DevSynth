@@ -18,7 +18,7 @@
     <h4> Contact Me </h4>
     <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Synth#8022 (<strong>recommended</strong>)
     <br>
-    📫 <i>Email</i> - me@scythethedev.cf
+    📫 <i>Email</i> - synth@snowflakedev.org
     <br>
     <img alt="Scythe's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> -     <a href="https://twitter.com/scythe108">Scythe108</a>
     <hr>
