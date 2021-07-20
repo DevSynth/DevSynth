@@ -39,8 +39,8 @@
 ---
 
 ### 📕 Github Stats
-<img align="left" src="https://gh-rm-stats.vercel.app/api?username=synth108&show_icons=true&layout=compact&theme=shades-of-purple" alt="Scythe's Github Stats" />
-<img align="left" src="https://gh-rm-stats.vercel.app/api/top-langs?username=synth108&theme=shades-of-purple&layout=compact" alt="Scythe's Github Stats" />
+<img align="left" src="https://gh-rm-stats.vercel.app/api?username=devsynth&show_icons=true&layout=compact&theme=shades-of-purple" alt="Scythe's Github Stats" />
+<img align="left" src="https://gh-rm-stats.vercel.app/api/top-langs?username=devsynth&theme=shades-of-purple&layout=compact" alt="Scythe's Github Stats" />
 
 [website]: https://scythethedev.cf/
 [twitter]: https://twitter.com/scythe108
