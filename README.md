@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Actually contribute to open source projects (so far, this goal has been a failed :rofl:)
 - ⚡ Fun fact: I'm really interested in Dog Training & Behavior Modification.
-- ❕ Administrator at <a href="https://discord.gg/snowflakedev">SnowflakeDev Community<a/>
+- ❕ Owner/Manager at <a href="https://discord.gg/uqB8kxh">Cesium Labs<a/>
 
 ### Connect with me:
 
