@@ -1,21 +1,19 @@
-### Hi there, I'm Jake - aka Synth 👋
+### Hey whats up, im Synth. 👋
 
 ## I'm a self-taught programmer.
 
 - 🧔 He / Him
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Actually contribute to open source projects (so far, this goal has been a failed :rofl:)
+- 🥅 2023 Goals: Build more oppen source projects.
 - ⚡ Fun fact: I'm really interested in Dog Training & Behavior Modification.
-- ❕ Owner/Manager at <a href="https://discord.gg/uqB8kxh">Cesium Labs<a/>
+- ❕ Owner at <a href="https://discord.gg/cesiumlabs-480939855476686849">Cesium Labs<a/>
 
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   <br />
-  - Email: me@synthdev.xyz
   - Discord Name: Synth#8022 <strong>( I'm more likely to answer on discord! )</strong>
-
 <br />
 
 ### Languages and Tools:
@@ -43,4 +41,4 @@
 
 [website]: https://scythethedev.cf/
 [twitter]: https://twitter.com/scythe108
-[discord]: https://discord.gg/snowflakedev
+[discord]: https://discord.gg/cesiumlabs-480939855476686849
